@@ -94,7 +94,7 @@ public class Palang {
          panel.setBackground(new Color(255, 239, 239));
          frame.add(panel);
 
-         JLabel name = new JLabel("BONNIE'S PIZZARIA", SwingConstants.CENTER);
+         JLabel name = new JLabel("PALANG'S PIZZARIA", SwingConstants.CENTER);
          name.setFont(new Font("Comic Sans MS", Font.BOLD, 30));
          name.setBounds(10, 10, 445, 50); 
          name.setForeground(new Color(255, 105, 180)); // Hot pink
@@ -305,3 +305,4 @@ public class Palang {
        
     }
 }
+
